@@ -64,8 +64,6 @@ make -j$(nproc)
 ./etl-framework-sample --config sample_pipeline.json
 ```
 
-> Note: Adjust commands to match your project structure and sample artifacts.
-
 ---
 
 ## Usage
